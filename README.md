@@ -38,29 +38,37 @@ Data has a story, and algorithms provide the structure. I am an AI & Data Scienc
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub & LeetCode Activity
 
 <div align="center">
-  
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilJain-08&show_icons=true&theme=radical&hide_border=true&v=1)
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilJain-08&theme=radical&hide_border=true" alt="Nikhil's GitHub Streak" />
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top" width="50%" align="center">
+        <img src="[https://github-readme-stats.vercel.app/api?username=NikhilJain-08&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api?username=NikhilJain-08&show_icons=true&theme=radical&hide_border=true)" alt="Nikhil's GitHub Stats" />
+        <br><br>
+        <img src="[https://github-readme-streak-stats.herokuapp.com/?user=NikhilJain-08&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=NikhilJain-08&theme=radical&hide_border=true)" alt="Nikhil's GitHub Streak" />
+      </td>
+      <td valign="top" width="50%" align="center">
+        <img src="[https://leetcard.jacoblin.cool/NIKHIL_JAIN_0808?theme=radical&font=Baloo%20Bhaijaan%202&ext=activity](https://leetcard.jacoblin.cool/NIKHIL_JAIN_0808?theme=radical&font=Baloo%20Bhaijaan%202&ext=activity)" alt="Nikhil's LeetCode Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 📫 Let's Connect
 
-Looking to collaborate on a project, discuss data stories, or solve some complex algorithms? Reach out!
-
-<div align="left">
+<div align="center">
+  <p>Looking to collaborate on a project, discuss data stories, or solve some complex algorithms? Reach out!</p>
+  
   <a href="mailto:mr.jain65kashi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/njain0808">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="[https://www.linkedin.com/in/njain0808](https://www.linkedin.com/in/njain0808)">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/NIKHIL_JAIN_0808/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="[https://leetcode.com/u/NIKHIL_JAIN_0808/](https://leetcode.com/u/NIKHIL_JAIN_0808/)">
+    <img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)" alt="LeetCode" />
   </a>
 </div>
