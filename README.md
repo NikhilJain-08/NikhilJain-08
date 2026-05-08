@@ -37,6 +37,13 @@ Data has a story, and algorithms provide the structure. I am an AI & Data Scienc
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
+### 🛠️ Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilJain-08&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
 ### 📊 GitHub & LeetCode Activity
 
 <div align="center">
