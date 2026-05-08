@@ -40,15 +40,15 @@ Data has a story, and algorithms provide the structure. I am an AI & Data Scienc
 ### 📊 GitHub & LeetCode Activity
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table>
     <tr>
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=NikhilJain-08&show_icons=true&theme=radical&hide_border=true" height="195px" alt="GitHub Stats" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=NikhilJain-08&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilJain-08&theme=radical&hide_border=true" height="195px" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilJain-08&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
       </td>
-      <td valign="top" align="center">
-        <img src="https://leetcard.jacoblin.cool/NIKHIL_JAIN_0808?theme=radical&font=Baloo%20Bhaijaan%202&ext=activity" height="400px" alt="LeetCode Stats" />
+      <td align="center">
+        <img src="https://leetcard.jacoblin.cool/NIKHIL_JAIN_0808?theme=radical&font=Baloo%20Bhaijaan%202&ext=activity&v=1" alt="LeetCode Stats" />
       </td>
     </tr>
   </table>
